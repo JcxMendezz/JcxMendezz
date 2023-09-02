@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**JcxMendezz/JcxMendezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi There, I'm Juan Camilo Méndez! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-Here are some ideas to get you started:
+I am a Frontend Developer and passionate about software and hardware performance, freelance work and customization.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Beside's programming, I love sport, gym ⛹🏼, listening to music 🎶 and board games.
+
+```javascript
+const JuanMendez = {
+  pronouns: "he" | "his",
+  code: [Javascript, Html, Css],
+  tools: [React,Vercel,Azure],
+}
+```
+
+[![Linkedin: JcxMendezz](https://img.shields.io/badge/-juancalderonx-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://github.com/JcxMendezz)](www.linkedin.com/in/jcxmendezz)
+[![GitHub JcxMendezz](https://github.com/JcxMendezz)
+[![Gmail JuanMendez](https://img.shields.io/badge/Gmail-juanmendez17t@gmail.comImagen de perfil-success)](mailto:alberthernandezdev@gmail.com)
+
