@@ -15,5 +15,5 @@ const JuanMendez = {
 ```
 
 [![Linkedin: JcxMendezz](https://img.shields.io/badge/-JcxMendezz-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://github.com/JcxMendezz)](www.linkedin.com/in/jcxmendezz)
-[![GitHub JcxMendezz](https://github.com/JcxMendezz)]
+[![GitHub JcxMendezz](https://img.shields.io/github/followers/JcxMendezz?label=follow&style=social)](https://github.com/JcxMendezz)
 [![Gmail JuanMendez](https://img.shields.io/badge/Gmail-juanmendez17t@gmail.com-success)](mailto:alberthernandezdev@gmail.com)
