@@ -49,7 +49,7 @@ const JuanMendez = {
 <p align="center"> Do :star: Connect, Apply, Development and Deploy. 
 </p>
 <p align="center">
-Check out my repos ⬇️  
+Check out my work in repos ⬇️  
 </p>
 
 
