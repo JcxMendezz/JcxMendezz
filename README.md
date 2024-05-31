@@ -1,5 +1,5 @@
 
-<h2> Hi There, I'm Juan Camilo Méndez! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi Everyone, I'm Juan Camilo Méndez! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 I am a Frontend Developer and passionate about software and hardware performance, freelance work and customization.   
 
