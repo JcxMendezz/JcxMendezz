@@ -37,7 +37,7 @@ Check out my repos ⬇️
     <a href="www.linkedin.com/in/jcxmendezz"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg")
 " width="100" height="30" /></a>
     <a href="mailto:juanmendez17t@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-    <a href="https://twitter.com/JuanM193"><img alt="Twitter" src="https://img.icons8.com/plasticine/100/000000/twitter.png" title="Twitter" width="80" height="80" /></a>
+    <a href="https://twitter.com/JuanM193"><img alt="Twitter" src="https://img.icons8.com/plasticine/100/000000/twitter.png" title="Twitter" width="50"  /></a>
 </p>
 
   <h3>
