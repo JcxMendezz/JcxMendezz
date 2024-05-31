@@ -42,7 +42,7 @@ const JuanMendez = {
 ### Learning Tools 🖥️🐤
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-<a src="https://www.cloud.com"><img src="https://img.icons8.com/?size=100&id=rdKV2dee9wxd&format=png&color=000000" Title="Cloud" widht="50" height="50"/></a>
+<a src="https://www.cloud.com"><img src="https://img.icons8.com/?size=100&id=4M86yFQrNLMF&format=png&color=000000" Title="Cloud" widht="50" height="50"/></a>
 
 
 
