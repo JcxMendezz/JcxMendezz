@@ -25,19 +25,22 @@ const JuanMendez = {
   tools: [React,Vercel,Azure],
 }
 ```
-Do :star: Connect, Apply and Deploy.
+<p align="center" Do :star: Connect, Apply, Development and Deploy. 
+</p>
+<p align="center">
+Check out my repos ⬇️  
+</p>
+
+
 <h3>
   <p align="center">
     <a href="www.linkedin.com/in/jcxmendezz"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg")
 " width="100" height="30" /></a>
     <a href="mailto:juanmendez17t@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-    <a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
+    <a href="https://twitter.com/JuanM193"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
 </p>
 
   <h3>
   
 
 
-[![Linkedin: JcxMendezz](https://img.shields.io/badge/-JcxMendezz-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://github.com/JcxMendezz)](www.linkedin.com/in/jcxmendezz)
-[![GitHub JcxMendezz](https://img.shields.io/github/followers/JcxMendezz?label=follow&style=social)](https://github.com/JcxMendezz)
-[![Gmail JuanMendez](https://img.shields.io/badge/Gmail-juanmendez17t@gmail.com-success)](mailto:alberthernandezdev@gmail.com)
