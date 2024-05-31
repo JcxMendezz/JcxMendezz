@@ -10,7 +10,7 @@ Beside's programming, I love sport, gym ⛹🏼, listening to music 🎶 and boa
 - 🌱 &nbsp; Learning Cloud, Tools, Librarys.
 - 💬  &nbsp; Researching how to seamlessly connect users, designers, front-end developers & backend developers.
 - ☕ &nbsp; Beside's programming, I love sport, gym ⛹🏼, listening to music 🎶 and board games.
-- 
+  
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|               |
@@ -21,7 +21,7 @@ Beside's programming, I love sport, gym ⛹🏼, listening to music 🎶 and boa
 ```javascript
 const JuanMendez = {
   pronouns: "he" | "his",
-  code: [Javascript, Html, Css],
+  code: [Javascript, Html, Css,],
   tools: [React,Vercel,Azure],
 }
 ```
