@@ -46,7 +46,7 @@ const JuanMendez = {
 
 
 
-<p align="center"> Do :star: Connect, Apply, Development and Deploy. 
+<p align="center">  Connect, Apply, Development and Deploy. 
 </p>
 <p align="center">
 Check out my work in repos ⬇️  
