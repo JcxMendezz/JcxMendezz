@@ -25,7 +25,7 @@ const JuanMendez = {
   tools: [React,Vercel,Azure],
 }
 ```
-<p align="center" Do :star: Connect, Apply, Development and Deploy. 
+<p align="center"> Do :star: Connect, Apply, Development and Deploy. 
 </p>
 <p align="center">
 Check out my repos ⬇️  
