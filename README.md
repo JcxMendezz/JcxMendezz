@@ -6,7 +6,8 @@ I am a Frontend Developer and passionate about software and hardware performance
 Beside's programming, I love sport, gym ⛹🏼, listening to music 🎶 and board games.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Enginner Systems 
-- https://img.icons8.com/?size=100&id=P1PFlng94PWv&format=png&color=000000 &nbsp; Working as a freelance, Project's Personal and Exploring opportunities.
+- ![image](https://github.com/JcxMendezz/JcxMendezz/assets/93446060/4fefbbc5-b971-4d51-80f3-5d92a260188f)
+ &nbsp; Working as a freelance, Project's Personal and Exploring opportunities.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Testing & Working in an industrial team.
 - 💫 &nbsp; Researching how to seamlessly connect users, designers, front-end developers & backend developers.
 - ✍️ &nbsp; Pursuing Music and Youtube as hobbies/side hustles.
