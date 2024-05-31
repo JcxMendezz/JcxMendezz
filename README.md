@@ -3,7 +3,7 @@
 
 I am a Enginner Systems, Developer and passionate about software and hardware performance, freelance work and customization.   
 
-Beside's programming, I love sport, gym ⛹🏼, listening to music 🎶 and board games.
+
 - ✍ &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Enginner Systems 
 - ⚡&nbsp; Working as a freelance, Project's Personal and Exploring opportunities.
