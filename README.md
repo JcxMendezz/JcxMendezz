@@ -1,7 +1,7 @@
 
 <h2> Hi Everyone, I'm Juan Camilo Méndez! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I am a Enginner Systems, Developer and passionate about software and hardware performance, freelance work and customization.   
+Enginner Systems, Developer and passionate about software and hardware performance, freelance work and customization.   
 
 
 - ✍ &nbsp; Exploring new technologies and developing software solutions and quick hacks.
