@@ -4,13 +4,7 @@
 Enginner Systems, Developer and passionate about software and hardware performance, freelance work and customization.   
 
 
-- ✍ &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Enginner Systems 
-- ⚡&nbsp; Working as a freelance, Project's Personal and Exploring opportunities.
-- 💻 &nbsp; Learning Cloud, Tools, Librarys.
-- 💬  &nbsp; Researching how to seamlessly connect users, designers, front-end developers & backend developers.
-- ☕ &nbsp; Beside's programming, I love sport, gym ⛹🏼, listening to music 🎶 and board games.
-  
+I am exploring new technologies and developing software solutions and quick hacks. I am studying Engineering Systems, working as a freelance, on personal projects, and exploring opportunities. I am learning about cloud technologies, tools, and libraries. I am researching how to seamlessly connect users, designers, front-end developers, and backend developers. Besides programming, I love sports, going to the gym, listening to music, and playing board games.
 
 ```javascript
 const JuanMendez = {
