@@ -9,12 +9,12 @@ I am exploring new technologies and developing software solutions and quick hack
 ```javascript
 const JuanMendez = {
   pronouns: "he" | "his",
-  code: [Javascript, Html, Css, ],
+  code: [Javascript, TypeScript, Html, Scss ],
   tools: [React,Vercel,Azure, Next.js, Node.js , Astro],
   learning: [ Librarys, Architecture, Tools]
 }
 ```
-#### 👨🏻‍💻 Currently working on:
+### 👨🏻‍💻 Currently working on:
 
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
