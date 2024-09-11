@@ -13,8 +13,8 @@ Enginner Systems, Developer and passionate about software and hardware performan
 ```javascript
 const JuanMendez = {
   pronouns: "he" | "his",
-  code: [Javascript, TypeScript, Html, Scss ],
-  tools: [React,Vercel,Azure, Next.js, Node.js , Astro],
+  code: [Javascript, TypeScript, Html, Scss, PostgresSQL, Docker ],
+  tools: [React,Vercel,Azure, Next.js, Git, Node.js , Astro, PrismaORM , Cloud ],
   learning: [ Librarys, Architecture, Tools]
 }
 ```
