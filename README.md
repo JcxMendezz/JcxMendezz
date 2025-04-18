@@ -1,22 +1,44 @@
+<h2> Hey there, I'm Juan Camilo Méndez! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<h2> Hi Everyone, I'm Juan Camilo Méndez! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-<h3> 
-Enginner Systems, Developer and passionate about software and hardware performance, freelance work and customization.   
+<h3>
+Systems Engineer | Frontend Dev Expert | CI/CD | Specialist Microfrontend's & Monorepos | Open Source Contributor | 3+ Years Building Solutions Business TI 
 </h3>
 
-<h3> 
-<!--  I am exploring new technologies and developing software solutions and quick hacks. I am studying Engineering Systems, working as a freelance, on personal projects, and exploring opportunities. I am learning about cloud technologies,  tools, and libraries. I am researching how to seamlessly connect users, designers, developers. beside sports, going to the gym, listening to music, and playing board games. --> </h3>
+<p>
+I'm passionate about building scalable, maintainable, and user-centric web applications. With over 3 years of experience, I’ve worked across frontend and backend stacks using modern tools and best practices in architecture and DevOps.  
+</p>
 
-</h3>
+<p>
+I focus on clean code, reusable components, cloud-native workflows, and continuous delivery. I also love contributing to open-source projects and building tools that help others.
+</p>
 
-```javascript
+---
+
+### 🛠️ 
+
+```javascript// developer-profile.ts
+
 const JuanMendez = {
-  pronouns: "he" | "his",
-  code: [Node.js, TypeScript, PostgresSQL, Docker ],
-  tools: [React,Vercel,Azure, Next.js, , Astro, Git, PrismaORM , AWS, MicroFrontend's ],
-  learning: [Architecture]
-}
+  pronouns: 'he/him',
+  role: 'Frontend Dev Expert',
+  backend: ['NestJS', 'Laravel', 'Node.js'],
+  frontend: ['Vue.js', 'Next.js', 'Astro'],
+  databases: ['PostgreSQL'],
+  devOps: ['AWS', 'Vercel', 'Azure DevOps', 'Docker', 'CI/CD'],
+  tools: ['Git', 'Jira', 'Trello', 'PrismaORM'],
+  focus: [
+    'Monorepo Architecture',
+    'Clean Architecture',
+    'Design Patterns',
+    'Open Source Contribution',
+  ],
+  intro() {
+    return `Hi! I'm Juan Camilo Méndez — a passionate dev building scalable solutions TI.`;
+  },
+};
+
+console.log(JuanMendez.intro());
+
 ```
 
 ### Learning 🖥️
