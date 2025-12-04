@@ -1,69 +1,103 @@
-<h2> Hey there, I'm Juan Camilo Méndez! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+# Hey there! 👋 I'm Juan Camilo Méndez
 
-<h3>
-Systems Engineer | Frontend Dev Expert | CI/CD | Specialist Microfrontend's & Monorepos | Open Source Contributor | 3+ Years Building Solutions Business TI 
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Systems+Engineer+%7C+Frontend+Expert;Building+Scalable+Solutions+with+Modern+Tech" alt="Typing SVG" />
+</div>
 
-<p>
-I'm passionate about building scalable, maintainable, and user-centric web applications. With over 3 years of experience, I’ve worked across frontend and backend stacks using modern tools and best practices in architecture and DevOps.  
-</p>
+## 🚀 About Me
 
-<p>
-I focus on clean code, reusable components, cloud-native workflows, and continuous delivery. I also love contributing to open-source projects and building tools that help others.
+I'm a passionate **Systems Engineer** and **Frontend Developer** with 3+ years of experience building scalable, maintainable, and user-centric web applications. I specialize in modern architectures, microfrontends, monorepos, and CI/CD workflows.
+
+💡 **What drives me:**
+- Writing clean, reusable code with best practices
+- Designing cloud-native solutions that scale
+- Contributing to open-source projects
+- Continuous learning and sharing knowledge
+
+---
+
+## 🛠️ Tech Stack
+
+```javascript
+const JuanMendez = {
+  pronouns: "he/him",
+  role: "Frontend Dev Expert | Systems Engineer",
+  
+  code: {
+    frontend: ["Vue.js", "Next.js", "Astro", "React"],
+    backend: ["NestJS", "Laravel", "Node.js"],
+    databases: ["PostgreSQL", "Prisma ORM"],
+    styling: ["TailwindCSS", "SASS", "CSS-in-JS"]
+  },
+  
+  architecture: {
+    patterns: ["Clean Architecture", "Design Patterns", "SOLID"],
+    structure: ["Monorepo", "Microfrontends", "Modular Design"]
+  },
+  
+  devOps: {
+    cloud: ["AWS", "Vercel", "Azure"],
+    cicd: ["Azure DevOps", "GitHub Actions", "Docker"],
+    tools: ["Git", "Docker", "CI/CD Pipelines"]
+  },
+  
+  currentFocus: [
+    "Scalable Frontend Architectures",
+    "Cloud-Native Development",
+    "Open Source Contribution",
+    "DevOps Best Practices"
+  ],
+  
+  intro() {
+    return "Building the future, one commit at a time 🚀";
+  }
+};
+
+console.log(JuanMendez.intro());
+```
+
+
+
+## 🌱 Currently Learning
+
+<div align="center">
+  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/000000/kubernetes.png" alt="Kubernetes" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/000000/docker.png" alt="Docker" width="60" height="60"/>
+</div>
+
+<p align="center">
+  <strong>Cloud Architecture | Kubernetes | Advanced DevOps</strong><br>
+  Exploring serverless architectures and container orchestration
 </p>
 
 ---
 
-### 🛠️ 
+## 🏆 Highlights
 
-```javascript// developer-profile.ts
+- 🔧 **3+ years** building production-grade applications
+- 🎯 Specialized in **microfrontend architectures** and **monorepo setups**
+- ☁️ Experience with **AWS**, **Azure**, and **Vercel** deployments
+- 🤝 Active **open-source contributor**
+- 📦 Expert in **CI/CD pipelines** and automated workflows
 
-const JuanMendez = {
-  pronouns: 'he/him',
-  role: 'Frontend Dev Expert',
-  backend: ['NestJS', 'Laravel', 'Node.js'],
-  frontend: ['Vue.js', 'Next.js', 'Astro'],
-  databases: ['PostgreSQL'],
-  devOps: ['AWS', 'Vercel', 'Azure DevOps', 'Docker', 'CI/CD'],
-  tools: ['Git', 'Jira', 'Trello', 'PrismaORM'],
-  focus: [
-    'Monorepo Architecture',
-    'Clean Architecture',
-    'Design Patterns',
-    'Open Source Contribution',
-  ],
-  intro() {
-    return `Hi! I'm Juan Camilo Méndez — a passionate dev building scalable solutions TI.`;
-  },
-};
+---
 
-console.log(JuanMendez.intro());
+## 📫 Let's Connect!
 
-```
-
-### Learning 🖥️
-
-<a src="https://www.cloud.com"><img src="https://img.icons8.com/?size=100&id=4M86yFQrNLMF&format=png&color=000000" Title="Cloud" widht="50" height="50"/></a>
-
-
-
-<p align="center">  Connect, Apply, Development and Deploy. 
-</p>
-<p align="center">
-Check out my work in repos ⬇️  
-</p>
-
-
-<h3>
-  <p align="center">
-    <a href="www.linkedin.com/in/jcxmendezz"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg")
-" width="100" height="30" /></a>
-    <a href="mailto:juanmendez17t@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-    <a href="https://twitter.com/JuanM193"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
-    
-</p>
-
-  <h3>
+<div align="center">
   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcxmendezz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanmendez17t@gmail.com)
 
+</div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  
+  ### ⭐ If you find my work helpful, consider giving a star to my repositories!
+  
+  <sub>💼 Open to collaborations and exciting projects</sub>
+</div>
