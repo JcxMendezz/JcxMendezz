@@ -26,8 +26,6 @@ const JuanMendez = {
   code: {
     frontend: ["Vue.js", "Next.js", "Astro", "React"],
     backend: ["NestJS", "Laravel", "Node.js"],
-    databases: ["PostgreSQL", "Prisma ORM"],
-    styling: ["TailwindCSS", "SASS", "CSS-in-JS"]
   },
   
   architecture: {
@@ -71,19 +69,7 @@ console.log(JuanMendez.intro());
   Exploring serverless architectures and container orchestration
 </p>
 
----
 
-## 🏆 Highlights
-
-- 🔧 **3+ years** building production-grade applications
-- 🎯 Specialized in **microfrontend architectures** and **monorepo setups**
-- ☁️ Experience with **AWS**, **Azure**, and **Vercel** deployments
-- 🤝 Active **open-source contributor**
-- 📦 Expert in **CI/CD pipelines** and automated workflows
-
----
-
-## 📫 Let's Connect!
 
 <div align="center">
   
@@ -94,10 +80,8 @@ console.log(JuanMendez.intro());
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+
   
-  ### ⭐ If you find my work helpful, consider giving a star to my repositories!
+  <div align="center">  ⭐ If you find my work helpful, consider giving a star to my repositories! </div>
   
-  <sub>💼 Open to collaborations and exciting projects</sub>
 </div>
