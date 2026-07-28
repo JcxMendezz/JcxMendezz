@@ -1,87 +1,66 @@
-# Hey there! 👋 I'm Juan Camilo Méndez
+<br clear="both">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Systems+Engineer+%7C+Frontend+Expert;Building+Scalable+Solutions+with+Modern+Tech" alt="Typing SVG" />
+<img data-importer="image" align="left" height="183" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXp6dmI3eXI5bTh5dW10bDczMHkxN2t1dDltcmNsNWUzbjczdWh4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10jYACUrFLPQC4/giphy.gif"  />
+
+###
+
+<img data-importer="image" align="right" height="159" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHV4Z3JlMjFrZDY0czd6a3BzdW1yYjVuaXk5OXFiNWR5c3FpZHB1NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lP04zsBaHgkH5u/giphy.gif"  />
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/jcxmendezz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/juanmendez17t" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="38" height="25" alt="twitter logo"  />
+  </a>
+  <a href="juanmendez17t@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://github.com/JcxMendezz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="38" height="25" alt="gitlab logo"  />
+  </a>
 </div>
 
-## 🚀 About Me
+###
 
-I'm a passionate **Systems Engineer** and **Frontend Developer** with 3+ years of experience building scalable, maintainable, and user-centric web applications. I specialize in modern architectures, microfrontends, monorepos, and CI/CD workflows.
+<h4 data-importer="text" align="center">Building scalable systems. One clean commit at a time, Systems Engineer</h4>
 
-💡 **What drives me:**
-- Writing clean, reusable code with best practices
-- Designing cloud-native solutions that scale
-- Contributing to open-source projects
-- Continuous learning and sharing knowledge
+###
 
----
+<p data-importer="text" align="center">Focus<br>Clean Architecture and SOLID principles applied to frontend systems<br>Microfrontends, monorepos, and modular design<br>Enterprise multi-tenant systems on .NET Framework / IIS<br>Cloud-native deployments and CI/CD pipelines<br>3+ years building scalable, user-centric systems<br>Featured work<br>Enterprise Integrated Management System (SIG / ISO) Multi-tenant platform for security & surveillance companies — ASP.NET MVC on .NET Framework, PostgreSQL via Dapper.<br><br>Document workflows with versioning, approval, and audit trail across multiple business areas<br>Real-time notifications via SignalR<br>Area-based MVC architecture with shared business-logic libraries<br>One shared codebase, deployed across several independent client sites on IIS</p>
 
-## 🛠️ Tech Stack
-
-```javascript
-const JuanMendez = {
-  pronouns: "he/him",
-  role: "Frontend Dev Expert | Systems Engineer",
-  
-  code: {
-    frontend: ["Vue.js", "Next.js", "Astro", "React"],
-    backend: ["NestJS", "Laravel", "Node.js"],
-  },
-  
-  architecture: {
-    patterns: ["Clean Architecture", "Design Patterns", "SOLID"],
-    structure: ["Monorepo", "Microfrontends", "Modular Design"]
-  },
-  
-  devOps: {
-    cloud: ["AWS", "Vercel", "Azure"],
-    cicd: ["Azure DevOps", "GitHub Actions", "Docker"],
-    tools: ["Git", "Docker", "CI/CD Pipelines"]
-  },
-  
-  currentFocus: [
-    "Scalable Frontend Architectures",
-    "Cloud-Native Development",
-    "Open Source Contribution",
-    "DevOps Best Practices"
-  ],
-  
-  intro() {
-    return "Building the future, one commit at a time 🚀";
-  }
-};
-
-console.log(JuanMendez.intro());
-```
+###
 
 
+###
 
-## 🌱 Currently Learning
+<br clear="both">
 
-<div align="center">
-  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/96/000000/kubernetes.png" alt="Kubernetes" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/96/000000/docker.png" alt="Docker" width="60" height="60"/>
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="39" alt="go logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="39" alt="dot-net logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="39" alt="firebase logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="39" alt="amazonwebservices logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="39" alt="circleci logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="39" alt="kubernetes logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="39" alt="docker logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="39" alt="linux logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="39" alt="postgresql logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="39" alt="microsoftsqlserver logo"  />
 </div>
 
-<p align="center">
-  <strong>Cloud Architecture | Kubernetes | Advanced DevOps</strong><br>
-  Exploring serverless architectures and container orchestration
-</p>
+###
 
 
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcxmendezz)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanmendez17t@gmail.com)
-
-</div>
-
----
-
-
-  
-  <div align="center">  ⭐ If you find my work helpful, consider giving a star to my repositories! </div>
-  
-</div>
+###
